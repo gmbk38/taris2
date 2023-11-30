@@ -1,0 +1,23 @@
+{
+  "name": "taris2",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000t\u0000a\u0000r\u0000i\u0000s\u00002\u0000\r\u0000 \u0000",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmbk38/taris2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmbk38/taris2/issues"
+  },
+  "homepage": "https://github.com/gmbk38/taris2#readme",
+  "devDependencies": {
+    "grunt": "^1.6.1",
+    "grunt-contrib-concat": "^2.1.0"
+  }
+}
