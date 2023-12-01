@@ -1,18 +1,18 @@
 Устанавливаем GRUNT глобально. Это делается один раз:
-```
+```bash
 npm install -g grunt-cli
 ```
 Инициализируем файл package.json:
-```
+```bash
 npm init
 ```
 Заходим в PowerShell от имени администратора и пишем:
-```
+```bash
 Set-ExecutionPolicy RemoteSigned
 ```
 Это нужно для того, чтобы избежать ошибки при запуске задач
 Создаём Gruntfile.js со следующим содержимым:
-```
+```js
 module.exports = function(grunt){
 
     grunt.initConfig({});
