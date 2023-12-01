@@ -26,3 +26,7 @@ module.exports = function(grunt){
     });
 }
 ```
+Запустить задачу можно с помощью её названия
+```bash
+grunt run
+```
